@@ -1,2 +1,4 @@
-# cti110
-CTI 110 Respository
+# 110 Repository
+Created for M2LAB1
+Benton
+09/14/2017
